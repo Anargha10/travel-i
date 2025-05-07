@@ -24,7 +24,7 @@ A modern, responsive travel itinerary application built with Next.js, TypeScript
 ## 🌐 Demo
 
 Live preview (if deployed):  
-[https://your-domain.vercel.app](https://your-domain.vercel.app)
+[https://your-domain.vercel.app]([(https://travel-i.vercel.app/))
 
 ---
 
