@@ -1,6 +1,6 @@
 # Travel Itinerary App
 
-A modern, responsive travel itinerary application built with Next.js, TypeScript, Tailwind CSS, and Radix-UI. Plan your trip day by day, view activities at a glance, and manage your schedule in a sleek, mobile-first interface.
+A modern, responsive travel itinerary application built with Next.js, TypeScript, Tailwind CSS, and Radix UI. Plan your trip day by day, view activities at a glance, and manage your schedule in a sleek, mobile-first interface.
 
 ---
 
@@ -23,8 +23,7 @@ A modern, responsive travel itinerary application built with Next.js, TypeScript
 
 ## 🌐 Demo
 
-Live preview (if deployed):  
-[https://your-domain.vercel.app]([(https://travel-i.vercel.app/))
+Live preview: [https://travel-i.vercel.app/](https://travel-i.vercel.app/)
 
 ---
 
